@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+  "allowSyntheticDefaultImports": true,
+  "declaration": true,
+  "esModuleInterop": true, 
+   "jsx": "react",
+   "lib": [
+    "es5",
+    "es6",
+    "dom"
+  ],
+  "module": "esnext", 
+   "target": "es5", 
+   "moduleResolution": "node",
+   "resolveJsonModule": true, 
+   "allowJs": true,
+   "sourceMap": false,
+   "outDir": "./dist", 
+   "forceConsistentCasingInFileNames": true,  
+   "strict": true,
+   "skipLibCheck": true  
+  }
+}
