@@ -55,7 +55,7 @@ var ListaChequeo = function () {
                                 React.createElement(Grid, { item: true, xs: 12, sm: 6 },
                                     React.createElement(TextField, { fullWidth: true, required: true, name: "Secci\u00F3n", label: "Secci\u00F3n", onChange: cambiarPregunta, variant: "outlined", value: pregunta })),
                                 React.createElement(Grid, { item: true, xs: 12, sm: 6 },
-                                    React.createElement(Button, { onClick: agregarComponente, color: "secondary", variant: "contained", size: "medium" }, "Agregar Preguntas"))))),
+                                    React.createElement(Button, { onClick: agregarComponente, color: "primary", variant: "contained", size: "medium" }, "Agregar Preguntas"))))),
                     componentesAgregados.map(function (componente) { return componente; }))))));
 };
 export default ListaChequeo;
