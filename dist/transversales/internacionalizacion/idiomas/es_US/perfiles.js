@@ -1,0 +1,17 @@
+export default {
+    'sidebar.seguridad': 'Security',
+    'sidebar.perfil': 'Profile',
+    'perfil.agregarPerfil': 'Create profile',
+    'perfil.modificarPerfil': 'Edit profile',
+    'perfil.idPerfil': 'Profile Id',
+    'perfil.idAplicacion': 'Application Id',
+    'perfil.nombrePerfil': 'Profile name',
+    'perfil.descripcion': 'Description',
+    'perfil.estado': 'State',
+    'perfil.verPerfil': 'See Profile',
+    'perfil.nombreDescripcion': 'Description',
+    'perfil.descripcionCaracteres': 'Maximum 200 characters',
+    'perfil.nombreCaracteres': 'Maximum 50 characters ',
+    'perfil.activo': 'Active',
+    'perfil.inactivo': 'Inactive',
+};

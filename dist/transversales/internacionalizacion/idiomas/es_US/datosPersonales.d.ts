@@ -1,0 +1,24 @@
+declare const _default: {
+    'DatosPersonales.DatosPersona': string;
+    'DatosPersonales.TipoIdentificacion': string;
+    'DatosPersonales.Identificacion': string;
+    'DatosPersonales.PrimerNombre': string;
+    'DatosPersonales.SegundoNombre': string;
+    'DatosPersonales.PrimerApellido': string;
+    'DatosPersonales.SegundoApellido': string;
+    'DatosPersonales.Direccion': string;
+    'DatosPersonales.Telefono': string;
+    'DatosPersonales.Celular': string;
+    'DatosPersonales.CorreoPrincipal': string;
+    'DatosPersonales.DatosUsuario': string;
+    'DatosPersonales.Login': string;
+    'DatosPersonales.ClaveNueva': string;
+    'DatosPersonales.ClaveConfirmacion': string;
+    'DatosPersonales.Sucursal': string;
+    'Validacion.Contrasenia': string;
+    'DatosPersonales.ContraseniaDiferentes': string;
+    'DatosPersonales.Perfil': string;
+    'sidebar.datospersonales': string;
+    'sidebar.usuario': string;
+};
+export default _default;

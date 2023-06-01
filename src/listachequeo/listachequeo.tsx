@@ -4,10 +4,10 @@ import React, { useState } from 'react';
 import Preguntas from "./preguntas";
 
 
-/*export interface FormularioProps {
-   
-}*/
-const ListaChequeo: React.FunctionComponent = () => {
+export interface IListaChequeoProps {
+    idEmpresa: string;
+}
+const ListaChequeo: React.FunctionComponent<IListaChequeoProps> = () => {
 
     /*const [contador, setContador] = useState<number>(0);
 

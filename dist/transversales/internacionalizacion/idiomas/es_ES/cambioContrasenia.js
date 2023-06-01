@@ -1,0 +1,16 @@
+export default {
+    'Cambio.Contrasenia': 'Cambiar Contraseña',
+    'CambioContrasenia.ClaveActual': 'Contraseña Actual',
+    'CambioContrasenia.ContraseniaDiferentes': 'La nueva  contraseña y su confirmación no coinciden.',
+    'CheckAceptar.TerminosCondiciones': 'Debe aceptar los términos y condiciones',
+    'CambioContrasenia.ClaveNueva': 'Contraseña Nueva',
+    'LabelAceptar.TerminosCondiciones ': 'Aceptar Términos y Condiciones.',
+    'CambioContrasenia.ClaveNuevaConfirmar': 'Confirmar contraseña',
+    'CambioContrasenia.ValidacioCampoContrasenia': 'La contraseña debe tener entre ocho y 20 caracteres.',
+    'Boton.cancelar': 'Cancelar',
+    'Boton.guardar': 'Guardar',
+    'Boton.Cerrar': 'Cerrar',
+    'Validacion.Contrasenia': 'La contraseña debe tener entre ocho y 20 caracteres.',
+    'CambioContrasenia.CheckAceptarTerminosCondiciones': 'Debe aceptar los términos y condiciones',
+    'sidebar.cambiocontrasenia': 'Cambio Contraseña',
+};

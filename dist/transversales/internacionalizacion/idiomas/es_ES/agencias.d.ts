@@ -1,0 +1,20 @@
+declare const _default: {
+    'sidebar.seguridad': string;
+    'sidebar.agencia': string;
+    'agencia.agregarAgencia': string;
+    'agencia.modificarAgencia': string;
+    'agencia.idAgencia': string;
+    'agencia.idEmpresa': string;
+    'agencia.idLocalizacion': string;
+    'agencia.codigoAgencia': string;
+    'agencia.nombreAgencia': string;
+    'agencia.direccion': string;
+    'agencia.telefonos': string;
+    'agencia.celular': string;
+    'agencia.logoAgencia': string;
+    'agencia.longitud': string;
+    'agencia.latitud': string;
+    'agencia.estado': string;
+    'agencia.verAgencia': string;
+};
+export default _default;

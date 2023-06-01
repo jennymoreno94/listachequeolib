@@ -1,0 +1,16 @@
+export default {
+    'Cambio.Contrasenia': 'Change Password',
+    'CambioContrasenia.ClaveActual': 'Current Password',
+    'CambioContrasenia.ContraseniaDiferentes': 'The new password and its confirmation do not match.',
+    'CheckAceptar.TerminosCondiciones': 'You must accept the terms and conditions',
+    'CambioContrasenia.ClaveNueva': 'New Password',
+    'LabelAceptar.TerminosCondiciones ': 'Accept Terms and Conditions.',
+    'CambioContrasenia.ClaveNuevaConfirmar': 'Confirm Password',
+    'CambioContrasenia.ValidacioCampoContrasenia': 'The password must be between eight and 20 characters long.',
+    'Boton.cancelar': 'Cancel',
+    'Boton.guardar': 'Save',
+    'Boton.Cerrar': 'Close',
+    'Validacion.Contrasenia': 'The password must be between eight and 20 characters long.',
+    'CambioContrasenia.CheckAceptarTerminosCondiciones': 'You must accept the terms and conditions',
+    'sidebar.cambiocontrasenia': 'Change Password',
+};
