@@ -83,7 +83,7 @@ const ListaChequeo: React.FunctionComponent = () => {
                                     <Grid item xs={12} sm={6}>
                                         <Button
                                             onClick={agregarComponente}
-                                            color="secondary"
+                                            color="primary"
                                             variant="contained"
                                             size="medium"
 
