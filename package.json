@@ -9,16 +9,12 @@
     "build": "tsc"
   },
   "author": "jenny.moreno",
-  "license": "MIT",
+  "license": "ISC",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "dependencies": {
-    "@infotrack/presentacion-componentes": "^1.4.4",
-    "@infotrack/presentacion-transversales": "^1.0.13",
-    "@infotrack/presentacion-utilitarios": "^1.1.2",
-    "@infotrack/utilitarios": "^1.1.9",
     "@material-ui/core": "^4.12.3",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "react": "^16.13.1",
